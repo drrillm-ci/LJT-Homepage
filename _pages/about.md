@@ -32,8 +32,6 @@ My research focuses on natural language processing and machine learning. My rese
 
 ## Publications
 
-(* denotes equal contribution / corresponding author; 🟧 indicates equal contribution)
-
 1. **SynLogic: Synthesizing Verifiable Reasoning Data at Scale for Learning Logical Reasoning and Beyond**  
    **Junteng Liu**, Yuanxiang Fan, Zhuo Jiang, Han Ding, Yongyi Hu, Chi Zhang, Yiqi Shi, Shitong Weng, Aili Chen, Shiqi Chen, Yunan Huang, Mozhi Zhang, Pengyu Zhao, Junjie Yan, Junxian He  
    *Arxiv*, 2025
