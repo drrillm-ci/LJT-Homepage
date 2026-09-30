@@ -5,11 +5,9 @@ title: "About"
 
 ## About Me
 
-I am a first-year Ph.D. candidate at the **[HKUST NLP Group](https://hkust-nlp.github.io/)**,
-supervised by **[Prof. Junxian He](https://jxhe.github.io/)**. My research focuses on
-**natural language processing and machine learning**. Before starting my Ph.D., I graduated from
-**Shanghai Jiao Tong University (SJTU)** in June 2024, where I was also advised by Prof. Junxian He
-during my undergraduate studies.
+- First-year PhD candidate at HKUST NLP Group.
+- Graduated from Shanghai Jiao Tong University (SJTU) in June 2024.
+- Research focuses on natural language processing and machine learning.
 
 ## Publications
 
@@ -33,35 +31,28 @@ subpage, my publications are also recorded here in the About section:
 
 ## Research Interests
 
-My research interests include:
-
-- **LLM Reasoning and Reinforcement Learning** — synthesizing verifiable reasoning data and
-  learning reasoning capabilities of large language models.
-- **Hallucination in Vision-Language Models (VLM)** — understanding and mitigating perception
-  bottlenecks and hallucination problems in VLMs, especially for chart understanding.
-- **LLM Truthfulness and Interpretability** — probing the internal representations of LLMs to
-  understand, measure, and improve their truthfulness.
+- LLM Reasoning and Reinforcement Learning
+- Hallucination in Vision-Language Models (VLM)
+- LLM truthfulness and Interpretability
 
 ## Education
 
-- **Ph.D. in Computer Science** (2024 – Present)
-  Hong Kong University of Science and Technology (HKUST)
-- **B.Eng.** (2020 – 2024)
-  Shanghai Jiao Tong University (SJTU)
+- Ph.D. in Computer Science (2024–Present), Hong Kong University of Science and Technology
+- B.Eng. (2020–2024), Shanghai Jiao Tong University
 
 ## Research Experience
 
-- **Research Intern**, MINIMAX (February 2025 – Present)
-- **Research Intern**, Tencent WXG (June 2024 – September 2024) — advised by Zifei Shan
-- **Research Intern**, Shanghai AI Lab (June 2023 – December 2023) — advised by Prof. Yu Cheng
+- Research Intern at MINIMAX (February 2025 – Present)
+- Research Intern at Tencent WXG (June 2024 – September 2024)
+- Research Intern at Shanghai AI Lab (June 2023 – December 2023)
 
 ## Awards
 
-- **Zhiyuan Honor Scholarship**, Shanghai Jiao Tong University
+- Zhiyuan Honor Scholarship at Shanghai Jiao Tong University
 
 ## Contact
 
-- **Email:** [jliugi@connect.ust.hk](mailto:jliugi@connect.ust.hk)
-- **GitHub:** [Vicent0205](https://github.com/Vicent0205)
-- **Google Scholar:** [Profile](https://scholar.google.com/citations?hl=en&user=tbK9jl4AAAAJ&view_op=list_works&sortby=pubdate)
-- **X (Twitter):** [@junteng88716710](https://x.com/junteng88716710)
+- Email: jliugi@connect.ust.hk
+- GitHub: https://github.com/Vicent0205
+- Google Scholar: https://scholar.google.com/citations?hl=en&user=tbK9jl4AAAAJ&view_op=list_works&sortby=pubdate
+- X (Twitter): @junteng88716710
