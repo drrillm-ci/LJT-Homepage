@@ -1,7 +1,30 @@
 ---
-permalink: /about/
+permalink: /
 title: "About"
 ---
+
+## Selected Publications
+
+The latest publications (also listed on the [publications]({{ '/publications/' | relative_url }}) subpage):
+
+{% for pub in site.publications %}
+  {% assign loop_index = forloop.index %}
+  {% if loop_index > 6 %}{% break %}{% endif %}
+  {% if pub.citation %}
+  <div class="publication">
+    <p>{{ pub.citation | remove: '&quot;' | remove: '&quot;' }}
+    {% if pub.paperurl %}
+      &nbsp;<a href="{{ pub.paperurl }}" target="_blank">[Paper]</a>
+    {% endif %}
+    {% if pub.permalink %}
+      &nbsp;<a href="{{ pub.permalink | relative_url }}">[Details]</a>
+    {% endif %}
+    </p>
+  </div>
+  {% endif %}
+{% endfor %}
+
+See the full list on the [publications page]({{ '/publications/' | relative_url }}).
 
 ## About Me
 
