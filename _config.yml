@@ -4,19 +4,19 @@ site_theme               : "default"
 title                    : "Junteng Liu"
 title_separator          : "-"
 name                     : "Junteng Liu"
-description              : "Junteng Liu's academic homepage — Ph.D. Candidate at HKUST NLP Group."
-url                      : https://drrillm-ci.github.io
-baseurl                  : "/LJT-Homepage"
-repository               : "drrillm-ci/LJT-Homepage"
+description              : "Junteng Liu's academic homepage"
+url                      : ""
+baseurl                  : ""
+repository               : ""
 
 # Site Author
 author:
   avatar           : "profile.png"
   name             : "Junteng Liu"
   pronouns         :
-  bio              : "Ph.D. Candidate at HKUST NLP Group. Research: LLM Reasoning & RL, VLM Hallucination, LLM Truthfulness & Interpretability."
-  location         : "Hong Kong"
-  employer         : "Hong Kong University of Science and Technology"
+  bio              : "First-year PhD candidate at HKUST NLP Group. Research: natural language processing and machine learning."
+  location         :
+  employer         :
   uri              :
   email            : "jliugi@connect.ust.hk"
 
@@ -61,7 +61,7 @@ author:
   steam            :
   telegram         :
   tumblr           :
-  twitter          : "junteng88716710"
+  twitter          :
   vine             :
   weibo            :
   wikipedia        :
@@ -123,7 +123,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : junteng88716710
+  username               :
 facebook:
   username               :
   app_id                 :
