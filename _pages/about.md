@@ -3,13 +3,20 @@ permalink: /
 title: "About"
 ---
 
-## Selected Publications
+## About Me
 
-The latest publications (also listed on the [publications]({{ '/publications/' | relative_url }}) subpage):
+I am a first-year Ph.D. candidate at the **[HKUST NLP Group](https://hkust-nlp.github.io/)**,
+supervised by **[Prof. Junxian He](https://jxhe.github.io/)**. My research focuses on
+**natural language processing and machine learning**. Before starting my Ph.D., I graduated from
+**Shanghai Jiao Tong University (SJTU)** in June 2024, where I was also advised by Prof. Junxian He
+during my undergraduate studies.
+
+## Publications
+
+In addition to the full list on the dedicated [publications]({{ '/publications/' | relative_url }})
+subpage, my publications are also recorded here in the About section:
 
 {% for pub in site.publications %}
-  {% assign loop_index = forloop.index %}
-  {% if loop_index > 6 %}{% break %}{% endif %}
   {% if pub.citation %}
   <div class="publication">
     <p>{{ pub.citation | remove: '&quot;' | remove: '&quot;' }}
@@ -23,16 +30,6 @@ The latest publications (also listed on the [publications]({{ '/publications/' |
   </div>
   {% endif %}
 {% endfor %}
-
-See the full list on the [publications page]({{ '/publications/' | relative_url }}).
-
-## About Me
-
-I am a first-year Ph.D. candidate at the **[HKUST NLP Group](https://hkust-nlp.github.io/)**,
-supervised by **[Prof. Junxian He](https://jxhe.github.io/)**. My research focuses on
-**natural language processing and machine learning**. Before starting my Ph.D., I graduated from
-**Shanghai Jiao Tong University (SJTU)** in June 2024, where I was also advised by Prof. Junxian He
-during my undergraduate studies.
 
 ## Research Interests
 
